@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-11-14T18:59:35.191849+00:00",
+  "updated_at": "2026-11-15T01:25:15.766540+00:00",
   "items": [
+    {
+      "title": "When the rains fail: Preparing for drought in Central America",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168776",
+      "date": "Sat, 14 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
     {
       "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168803",
@@ -172,12 +178,6 @@
     {
       "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168763",
-      "date": "Mon, 09 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168762",
       "date": "Mon, 09 Nov 2026 12:00:00 +0000",
       "source": "UN News"
     },
@@ -360,6 +360,12 @@
       "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-s-240-s-283-and-s-2403-signed-into-law/",
       "date": "Thu, 15 Oct 2026 23:48:26 +0000",
       "source": "White House briefings"
+    },
+    {
+      "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168762",
+      "date": "Mon, 09 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
     },
     {
       "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
