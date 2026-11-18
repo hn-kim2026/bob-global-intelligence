@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-17T19:18:47.366518+00:00",
+  "updated_at": "2026-11-18T01:34:06.980583+00:00",
   "items": [
+    {
+      "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168827",
+      "date": "Tue, 17 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
     {
       "title": "COP31: The push to protect warming oceans reaches the negotiating table",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168824",
@@ -170,16 +182,10 @@
       "source": "UN News"
     },
     {
-      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
-      "date": "Thu, 12 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168788",
-      "date": "Wed, 11 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
+      "title": "Presidential Message on American Education Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb/",
+      "date": "Tue, 17 Nov 2026 22:56:40 +0000",
+      "source": "White House briefings"
     },
     {
       "title": "Quad Leaders’ Summit Joint Press Release",
@@ -354,6 +360,18 @@
       "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-227-h-r-837-h-r-1721-h-r-2388-h-r-2481-h-r-3620-h-r-4307-h-r-4467-h-r-6380-and-h-r-7831-signed-into-law/",
       "date": "Tue, 20 Oct 2026 20:36:03 +0000",
       "source": "White House briefings"
+    },
+    {
+      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
+      "date": "Thu, 12 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168788",
+      "date": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
     },
     {
       "title": "Presidential Message on National Forest Products Week",
