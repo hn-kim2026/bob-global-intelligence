@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-20T13:29:20.313632+00:00",
+  "updated_at": "2026-11-20T19:17:15.991983+00:00",
   "items": [
+    {
+      "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+      "date": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+      "date": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+      "date": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168844",
+      "date": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
     {
       "title": "Battle to control GPS and radio signals raises civilian safety concerns",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168843",
@@ -158,28 +182,10 @@
       "source": "UN News"
     },
     {
-      "title": "Nadia Murad: ‘Day by day, I took my story back’",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168801",
-      "date": "Sun, 15 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "When the rains fail: Preparing for drought in Central America",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168776",
-      "date": "Sat, 14 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168803",
-      "date": "Fri, 13 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
-      "date": "Fri, 13 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
+      "title": "Presidential Message on National Rural Health Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-rural-health-day/",
+      "date": "Thu, 19 Nov 2026 22:00:00 +0000",
+      "source": "White House briefings"
     },
     {
       "title": "U.S.-Russia-China Heads of State Declaration toward Peace",
@@ -354,6 +360,30 @@
       "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/",
       "date": "Fri, 23 Oct 2026 12:22:50 +0000",
       "source": "White House briefings"
+    },
+    {
+      "title": "Nadia Murad: ‘Day by day, I took my story back’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168801",
+      "date": "Sun, 15 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "When the rains fail: Preparing for drought in Central America",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168776",
+      "date": "Sat, 14 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168803",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+      "date": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
     },
     {
       "title": "Congressional Bills H.R. 952 and H.R. 7022 Signed into Law",
