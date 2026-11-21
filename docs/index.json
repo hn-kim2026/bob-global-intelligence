@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-21T13:15:12.013975+00:00",
+  "updated_at": "2026-11-21T19:03:50.328951+00:00",
   "items": [
+    {
+      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "date": "Sat, 21 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168854",
+      "date": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
     {
       "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
@@ -26,7 +38,7 @@
       "source": "UN News"
     },
     {
-      "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+      "title": "COP31: Countries demand stronger climate deal amid deadlock in Antalya",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
       "date": "Fri, 20 Nov 2026 12:00:00 +0000",
       "source": "UN News"
@@ -166,18 +178,6 @@
     {
       "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168811",
-      "date": "Mon, 16 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "Guterres calls for a legally binding instrument for ‘killer robots'",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168810",
-      "date": "Mon, 16 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168809",
       "date": "Mon, 16 Nov 2026 12:00:00 +0000",
       "source": "UN News"
     },
@@ -360,6 +360,18 @@
       "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026/",
       "date": "Mon, 26 Oct 2026 12:47:15 +0000",
       "source": "White House briefings"
+    },
+    {
+      "title": "Guterres calls for a legally binding instrument for ‘killer robots'",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168810",
+      "date": "Mon, 16 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168809",
+      "date": "Mon, 16 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
     },
     {
       "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky",
