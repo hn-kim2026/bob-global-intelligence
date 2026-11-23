@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-11-23T07:52:54.627737+00:00",
+  "updated_at": "2026-11-23T13:39:17.821848+00:00",
   "items": [
+    {
+      "title": "Libya: UN mission urges probe into Benghazi port attacks",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168857",
+      "date": "Mon, 23 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
+      "date": "Sun, 22 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
     {
       "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
@@ -166,18 +178,6 @@
     {
       "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168819",
-      "date": "Mon, 16 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "Lebanon leading the way in mental health support",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
-      "date": "Mon, 16 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "AI gets climate science right – until users push back",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168817",
       "date": "Mon, 16 Nov 2026 12:00:00 +0000",
       "source": "UN News"
     },
@@ -360,6 +360,18 @@
       "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-announces-halloween-at-the-white-house-2026/",
       "date": "Mon, 26 Oct 2026 12:47:15 +0000",
       "source": "White House briefings"
+    },
+    {
+      "title": "Lebanon leading the way in mental health support",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
+      "date": "Mon, 16 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "AI gets climate science right – until users push back",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168817",
+      "date": "Mon, 16 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
     },
     {
       "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
