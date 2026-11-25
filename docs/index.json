@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-25T13:39:37.089796+00:00",
+  "updated_at": "2026-11-25T19:12:00.607758+00:00",
   "items": [
+    {
+      "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168873",
+      "date": "Wed, 25 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+      "date": "Wed, 25 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168876",
+      "date": "Wed, 25 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168874",
+      "date": "Wed, 25 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+      "date": "Wed, 25 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
     {
       "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
@@ -148,36 +178,6 @@
     {
       "title": "Battle to control GPS and radio signals raises civilian safety concerns",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168843",
-      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168842",
-      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "‘Losing the battle’: AI hands predators new ways to target children",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168841",
-      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
-      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "No government approval needed to form or join a group, UN rights committee says",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168837",
-      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "source": "UN News"
-    },
-    {
-      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168836",
       "date": "Thu, 19 Nov 2026 12:00:00 +0000",
       "source": "UN News"
     },
@@ -360,6 +360,36 @@
       "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/",
       "date": "Tue, 03 Nov 2026 12:32:47 +0000",
       "source": "White House briefings"
+    },
+    {
+      "title": "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168842",
+      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "‘Losing the battle’: AI hands predators new ways to target children",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168841",
+      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
+      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "No government approval needed to form or join a group, UN rights committee says",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168837",
+      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
+    },
+    {
+      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168836",
+      "date": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "source": "UN News"
     },
     {
       "title": "Presidential Message on All Saints’ Day",
